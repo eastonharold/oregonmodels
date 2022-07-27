@@ -1,0 +1,12 @@
+body{
+overflow: hidden;
+width: 100%;
+
+
+}
+h1{
+width: 100vw;
+text-align: center;
+font-family: 'Righteous', cursive;
+font-size: 200px;
+}
