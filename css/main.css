@@ -1,19 +1,15 @@
-@media  (max-width: 1464px) {
-    h1{
-        font-size: 100px;
-        }
-        
-}
+
 body{
 overflow: hidden;
 width: 100%;
-
+background-color: #ECF39E ;
 
 }
 h1{
 width: 100vw;
 text-align: center;
 font-family: 'Righteous', cursive;
-font-size: 200px;
+font-size: 75px;
+
 }
 
